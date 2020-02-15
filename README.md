@@ -1,2 +1,6 @@
 # hello-world
-Just another repositoy
+
+HI
+
+i'm a good learner 
+just try me
